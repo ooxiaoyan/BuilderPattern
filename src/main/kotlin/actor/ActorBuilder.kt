@@ -1,3 +1,5 @@
+package actor
+
 // 角色建造器：抽象建造者
 abstract class ActorBuilder {
 

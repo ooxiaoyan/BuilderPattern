@@ -1,3 +1,5 @@
+package actor
+
 // 英雄角色建造器：具体建造者
 class HeroBuilder : ActorBuilder() {
 

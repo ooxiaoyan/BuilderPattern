@@ -1,3 +1,5 @@
+package actor
+
 // 角色创建控制器：导演类
 class ActorController {
 

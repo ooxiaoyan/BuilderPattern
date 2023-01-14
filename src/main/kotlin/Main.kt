@@ -1,3 +1,6 @@
+import actor.ActorController
+import actor.AngelBuilder
+
 // 客户端测试类
 fun main(args: Array<String>) {
     val actorController = ActorController()

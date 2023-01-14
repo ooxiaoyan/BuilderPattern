@@ -1,3 +1,5 @@
+package actor
+
 // 角色类
 class Actor {
     var type: String? = null
